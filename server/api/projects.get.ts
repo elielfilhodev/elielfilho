@@ -1,7 +1,31 @@
-import { readFileSync } from 'fs'
-import { resolve } from 'path'
-
 export default defineEventHandler(() => {
-  const file = readFileSync(resolve('data/projects.json'), 'utf-8')
-  return JSON.parse(file)
+  return [
+    {
+      id: 1,
+      title: 'Meu Carinho',
+      description: 'Projeto feito em next.js, o projeto refere-se a uma app que gera música com I.A, utilizando APIs de ellevenlabs e OpenAI para geração de letras e faixas músicais e Stripe como sistema de checkout.',
+      tags: ['Next', 'Node', 'PostgreSQL', 'Neon', 'Shadcn'],
+      url: 'https://meucarinho.com.br/',
+      repo: '',
+      image: '',
+    },
+    {
+      id: 2,
+      title: 'Hossony Luthier Site',
+      description: 'Site estático feito em html, css e javascript, sem banco de dados.',
+      tags: ['HTML5', 'CSS3', 'JavaScript'],
+      url: 'https://luthierhossony.com/',
+      repo: 'https://github.com/elielfilhodev/hossony-luthierblog',
+      image: '',
+    },
+    {
+      id: 3,
+      title: 'Bio Links',
+      description: 'Projeto simples, clone do linktree porém melhorado.',
+      tags: ['React'],
+      url: 'https://biolinks-lilac.vercel.app/',
+      repo: 'https://github.com/elielfilhodev/biolinks',
+      image: '',
+    },
+  ]
 })
