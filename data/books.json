@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "cover": "https://m.media-amazon.com/images/I/41xShlnTZTL.jpg",
+    "url": "https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+  },
+  {
+    "id": 2,
+    "title": "Lógica de Programação e Algoritmos com JavaScript",
+    "author": "Edécio Fernando Iespen",
+    "cover": "https://m.media-amazon.com/images/I/71X7hMhMEUL._SL1500_.jpg",
+    "url": "https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript/dp/6586057906/ref=asc_df_6586057906?mcid=2532f9198efa376c85957c3317e4835b&tag=googleshopp00-20&linkCode=df0&hvadid=709897990234&hvpos=&hvnetw=g&hvrand=10093858817043275138&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1032092&hvtargid=pla-1646193652318&psc=1&language=pt_BR&gad_source=1"
+  },
+  {
+    "id": 3,
+    "title": "Entendendo Algoritmos",
+    "author": "Aditya Y. Bhargava",
+    "cover": "https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg",
+    "url": "https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=asc_df_8575225634?mcid=40954eb1f1cd38798e22e95c481dfc47&tag=googleshopp00-20&linkCode=df0&hvadid=709884550309&hvpos=&hvnetw=g&hvrand=12498833956780720558&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1032092&hvtargid=pla-811121403561&psc=1&language=pt_BR&gad_source=1"
+  },
+  {
+    "id": 4,
+    "title": "Black Hat Python",
+    "author": "Justin Seitz & Tim Arnold",
+    "cover": "https://m.media-amazon.com/images/I/71rxdaudNPL._SL1000_.jpg",
+    "url": "https://www.amazon.com.br/Black-Hat-Python-Programa%C3%A7%C3%A3o-pentesters/dp/8575228897/ref=asc_df_8575228897?mcid=cfa8d95495c0314982042acc275eda04&tag=googleshopp00-20&linkCode=df0&hvadid=709965221222&hvpos=&hvnetw=g&hvrand=2931794882995043762&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1032092&hvtargid=pla-2295634885915&psc=1&language=pt_BR&gad_source=1"
+  }
+]
