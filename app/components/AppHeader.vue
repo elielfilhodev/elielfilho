@@ -69,7 +69,7 @@ const { t: tFull } = useI18n()
 const t = computed(() => tFull.value.header)
 
 const imgFailed = ref(false)
-const avatarSrc = '/avatar.jpeg'
+const avatarSrc = '/avatar.JPEG'
 const onImgError = () => { imgFailed.value = true }
 const hovered = ref(false)
 const lightbox = ref(false)
